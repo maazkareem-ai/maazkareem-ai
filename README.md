@@ -66,24 +66,6 @@ Beyond academics, I’m deeply interested in **Human–AI collaboration**, **Aut
 - 🗣 Preparing for **IELTS & German University Admissions**  
 - 🇩🇪 Learning **German Language & Culture**
 
----
-
-## 📈 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaazKarim&show_icons=true&theme=tokyonight" alt="Maaz's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaazKarim&layout=compact&theme=tokyonight" alt="Top Languages" height="165" />
-</p>
-
----
-
-## 🔥 Streaks & Activity  
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaazKarim&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
 
 ## 📫 Connect with Me  
 
@@ -101,3 +83,4 @@ Beyond academics, I’m deeply interested in **Human–AI collaboration**, **Aut
 ---
 
 ⭐ *“Striving to build intelligent systems that serve people and make the world smarter.”*  
+
