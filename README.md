@@ -69,7 +69,7 @@ Beyond academics, I’m deeply interested in **Human–AI collaboration**, **Aut
 
 ## 📫 Connect with Me  
 
-🌐 **LinkedIn:** [linkedin.com/in/maazkareem-a]  
+🌐 **LinkedIn:** [linkedin.com/in/maazkareem-ai]  
 🐙 **GitHub:** [github.com/maazkareem-ai](https://github.com/maazkarim-ai)  
 📧 **Email:** [maaz.kareem.ai@gmail.com]  
 💼 **Location:** Buner, KPK, Pakistan  
@@ -83,4 +83,5 @@ Beyond academics, I’m deeply interested in **Human–AI collaboration**, **Aut
 ---
 
 ⭐ *“Striving to build intelligent systems that serve people and make the world smarter.”*  
+
 
