@@ -1,7 +1,7 @@
 # Hi, I'm Maaz Kareem 👋  
 
-🎓 **Gold Medalist | BS Computer Science | AI & Machine Learning Enthusiast**  
-📍 District Buner, Khyber Pakhtunkhwa, Pakistan  
+🎓 **Machine Learning Engineer | NLP Specialist | Gold Medalist CS | Building Language AI with Python, PyTorch & Transformers**  
+📍 Main Gulberg III, Lahore,Punjab, Pakistan  
 📧 maaz.kareem.ai@gmail.com | [GitHub](https://github.com/maazkareem-ai) | [LinkedIn](https://linkedin.com/in/maazkareem-ai)
 
 ---
@@ -51,3 +51,4 @@ a machine learning model that classifies social media text into different mental
 
 ## Quote  
 > “AI won’t replace humans — but humans who use AI will replace those who don’t.”
+
