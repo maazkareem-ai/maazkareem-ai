@@ -39,7 +39,7 @@
 <h2 align="center">🚀 Technical Skills</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=900&lines=Python+%7C+C%2B%2B+%7C+Java+%7C+SQL+%7C+JavaScript+%7C+R;TensorFlow+%7C+PyTorch+%7C+Keras+%7C+Scikit-learn+%7C+XGBoost+%7C+LightGBM;BERT+%7C+GPT+%7C+HuggingFace+%7C+LangChain+%7C+spaCy+%7C+NLTK;Pandas+%7C+NumPy+%7C+Matplotlib+%7C+Plotly+%7C+Tableau+%7C+PowerBI;AWS+%7C+GCP+%7C+Docker+%7C+Kubernetes+%7C+MLflow+%7C+Weights%26Biases;PostgreSQL+%7C+MongoDB+%7C+Redis+%7C+Elasticsearch+%7C+ChromaDB+%7C+Pinecone" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=Python+%7C+C%2B%2B+%7C+Java+%7C+SQL+%7C+JavaScript+%7C+R;TensorFlow+%7C+PyTorch+%7C+Keras+%7C+Scikit-learn+%7C+XGBoost+%7C+LightGBM;BERT+%7C+GPT+%7C+HuggingFace+%7C+LangChain+%7C+spaCy+%7C+NLTK;Pandas+%7C+NumPy+%7C+Matplotlib+%7C+Plotly+%7C+Tableau+%7C+PowerBI;AWS+%7C+GCP+%7C+Docker+%7C+Kubernetes+%7C+MLflow+%7C+Weights%26Biases;PostgreSQL+%7C+MongoDB+%7C+Redis+%7C+Elasticsearch+%7C+ChromaDB+%7C+Pinecone" />
 </p>
 
 <p align="center">
