@@ -34,112 +34,80 @@
   
 </div>
 
+<!-- ===================== SKILLS SECTION ===================== -->
 
-<!-- ============================================= -->
-<!-- ADVANCED SKILL MATRIX WITH ICONS -->
-<!-- ============================================= -->
+<h2 align="center">🚀 Technical Skills</h2>
 
-<div align="center">
-  
-  <h2>
-    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px"/>
-    TECHNICAL EXPERTISE MATRIX
-    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px"/>
-  </h2>
-  
-  <!-- SKILL CATEGORIES WITH COLOR-CODED BADGES -->
-  <table width="100%" border="0">
-    <tr>
-      <td width="33%" align="center" bgcolor="#0d1117">
-        <h3><font color="#FF00FF">💻 PROGRAMMING</font></h3>
-        <img src="https://img.shields.io/badge/Python-★★★★★-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <br/>
-        <img src="https://img.shields.io/badge/C++-★★★★☆-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-        <br/>
-        <img src="https://img.shields.io/badge/Java-★★★★☆-ED8B00?style=flat-square&logo=java&logoColor=white" />
-        <br/>
-        <img src="https://img.shields.io/badge/SQL-★★★★☆-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-        <br/>
-        <img src="https://img.shields.io/badge/JavaScript-★★★☆☆-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <br/>
-        <img src="https://img.shields.io/badge/R-★★★☆☆-276DC3?style=flat-square&logo=r&logoColor=white" />
-      </td>
-      <td width="33%" align="center" bgcolor="#0d1117">
-        <h3><font color="#00FFFF">🤖 ML/DL FRAMEWORKS</font></h3>
-        <img src="https://img.shields.io/badge/TensorFlow-★★★★★-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-        <br/>
-        <img src="https://img.shields.io/badge/PyTorch-★★★★★-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-        <br/>
-        <img src="https://img.shields.io/badge/Keras-★★★★☆-D00000?style=flat-square&logo=keras&logoColor=white" />
-        <br/>
-        <img src="https://img.shields.io/badge/ScikitLearn-★★★★★-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-        <br/>
-        <img src="https://img.shields.io/badge/XGBoost-★★★★☆-AA66CC?style=flat-square&logo=xgboost&logoColor=white" />
-        <br/>
-        <img src="https://img.shields.io/badge/LightGBM-★★★★☆-3D6CB9?style=flat-square&logo=lightgbm&logoColor=white" />
-      </td>
-      <td width="33%" align="center" bgcolor="#0d1117">
-        <h3><font color="#FF69B4">📝 NLP & LLMs</font></h3>
-        <img src="https://img.shields.io/badge/BERT-★★★★★-1C3F3C?style=flat-square&logo=bert&logoColor=white" />
-        <br/>
-        <img src="https://img.shields.io/badge/GPT-★★★★★-412991?style=flat-square&logo=openai&logoColor=white" />
-        <br/>
-        <img src="https://img.shields.io/badge/HuggingFace-★★★★★-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-        <br/>
-        <img src="https://img.shields.io/badge/LangChain-★★★★☆-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" />
-        <br/>
-        <img src="https://img.shields.io/badge/spaCy-★★★★☆-09A3D5?style=flat-square&logo=spacy&logoColor=white" />
-        <br/>
-        <img src="https://img.shields.io/badge/NLTK-★★★★☆-154f5c?style=flat-square&logo=nltk&logoColor=white" />
-      </td>
-    </tr>
-    <tr>
-      <td width="33%" align="center" bgcolor="#0d1117">
-        <h3><font color="#FFA500">📊 DATA SCIENCE</font></h3>
-        <img src="https://img.shields.io/badge/Pandas-★★★★★-150458?style=flat-square&logo=pandas&logoColor=white" />
-        <br/>
-        <img src="https://img.shields.io/badge/NumPy-★★★★★-013243?style=flat-square&logo=numpy&logoColor=white" />
-        <br/>
-        <img src="https://img.shields.io/badge/Matplotlib-★★★★☆-11557c?style=flat-square&logo=python&logoColor=white" />
-        <br/>
-        <img src="https://img.shields.io/badge/Plotly-★★★★☆-3F4F75?style=flat-square&logo=plotly&logoColor=white" />
-        <br/>
-        <img src="https://img.shields.io/badge/Tableau-★★★☆☆-E97627?style=flat-square&logo=tableau&logoColor=white" />
-        <br/>
-        <img src="https://img.shields.io/badge/PowerBI-★★★☆☆-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-      </td>
-      <td width="33%" align="center" bgcolor="#0d1117">
-        <h3><font color="#00FF00">☁️ MLOPS & CLOUD</font></h3>
-        <img src="https://img.shields.io/badge/AWS-★★★★☆-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
-        <br/>
-        <img src="https://img.shields.io/badge/GCP-★★★★☆-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
-        <br/>
-        <img src="https://img.shields.io/badge/Docker-★★★★☆-2496ED?style=flat-square&logo=docker&logoColor=white" />
-        <br/>
-        <img src="https://img.shields.io/badge/Kubernetes-★★★☆☆-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-        <br/>
-        <img src="https://img.shields.io/badge/MLflow-★★★★☆-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
-        <br/>
-        <img src="https://img.shields.io/badge/Weights%26Biases-★★★★☆-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black" />
-      </td>
-      <td width="33%" align="center" bgcolor="#0d1117">
-        <h3><font color="#9146FF">🗄️ DATABASES</font></h3>
-        <img src="https://img.shields.io/badge/PostgreSQL-★★★★☆-316192?style=flat-square&logo=postgresql&logoColor=white" />
-        <br/>
-        <img src="https://img.shields.io/badge/MongoDB-★★★★☆-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
-        <br/>
-        <img src="https://img.shields.io/badge/Redis-★★★☆☆-DC382D?style=flat-square&logo=redis&logoColor=white" />
-        <br/>
-        <img src="https://img.shields.io/badge/Elasticsearch-★★★☆☆-005571?style=flat-square&logo=elasticsearch&logoColor=white" />
-        <br/>
-        <img src="https://img.shields.io/badge/ChromaDB-★★★★☆-4A154B?style=flat-square&logo=chromadb&logoColor=white" />
-        <br/>
-        <img src="https://img.shields.io/badge/Pinecone-★★★☆☆-000000?style=flat-square&logo=pinecone&logoColor=white" />
-      </td>
-    </tr>
-  </table>
-  
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;NLP+%7C+Deep+Learning+%7C+MLOps;Building+Intelligent+Systems" />
+</p>
+
+---
+
+### 💻 Programming
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,r,mysql" />
+</p>
+
+---
+
+### 🤖 Machine Learning & Deep Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/XGBoost-Advanced-8A2BE2?style=flat-square" />
+  <img src="https://img.shields.io/badge/LightGBM-Advanced-2E8B57?style=flat-square" />
+</p>
+
+---
+
+### 🧠 NLP & LLMs
+<p>
+  <img src="https://img.shields.io/badge/BERT-Expert-0A192F?style=flat-square" />
+  <img src="https://img.shields.io/badge/GPT-Expert-412991?style=flat-square" />
+  <img src="https://img.shields.io/badge/HuggingFace-Expert-FFD21E?style=flat-square" />
+  <img src="https://img.shields.io/badge/LangChain-Intermediate-1C3C3C?style=flat-square" />
+</p>
+
+---
+
+### 📊 Data Science
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://img.shields.io/badge/Pandas-Expert-150458?style=flat-square" />
+  <img src="https://img.shields.io/badge/NumPy-Expert-013243?style=flat-square" />
+  <img src="https://img.shields.io/badge/Matplotlib-Advanced-11557c?style=flat-square" />
+  <img src="https://img.shields.io/badge/Plotly-Advanced-3F4F75?style=flat-square" />
+</p>
+
+---
+
+### ☁️ MLOps & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/MLflow-Advanced-0194E2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Weights%26Biases-Advanced-FFBE00?style=flat-square" />
+</p>
+
+---
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Elasticsearch-Intermediate-005571?style=flat-square" />
+  <img src="https://img.shields.io/badge/ChromaDB-Advanced-4A154B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Pinecone-Intermediate-000000?style=flat-square" />
+</p>
+
+<!-- ========================================================== -->
 
 
 <!-- ============================================= -->
