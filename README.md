@@ -64,42 +64,36 @@
 
 <!-- ========================================================== -->
 
-<!-- ============================================= -->
-<!-- SUPPORT & CONNECT -->
-<!-- ============================================= -->
+<!-- ===================== CONNECT ===================== -->
 
-<div align="center">
+<h2 align="center">🤝 Connect</h2>
+
+<p align="center">
+  <a href="mailto:maaz.kareem.ai@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
   
-  <h2>🤝 SUPPORT & CONNECT</h2>
+  <a href="https://www.linkedin.com/in/your-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/maazkareem-ai">
+    <img src="https://img.shields.io/badge/GitHub-Projects-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<!-- Optional (keep ONLY if relevant) -->
+<p align="center">
+  <a href="https://scholar.google.com/your-profile">
+    <img src="https://img.shields.io/badge/Google%20Scholar-Research-4285F4?style=flat-square&logo=google-scholar&logoColor=white" />
+  </a>
   
-  <table width="100%" border="0">
-    <tr>
-      <td align="center">
-        <a href="https://github.com/sponsors/maazkareem-ai">
-          <img src="https://img.shields.io/badge/SPONSOR-My%20Work-9146FF?style=for-the-badge&logo=github-sponsors&logoColor=white" />
-        </a>
-        <a href="https://buymeacoffee.com/maazkareem">
-          <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
-        </a>
-        <a href="https://patreon.com/maazkareem">
-          <img src="https://img.shields.io/badge/Patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://discord.gg/maazkareem">
-          <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-        </a>
-        <a href="https://t.me/maazkareem">
-          <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-        </a>
-        <a href="https://wa.me/+923178326996">
-          <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <a href="https://your-portfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-Website-000000?style=flat-square&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+<!-- =================================================== -->
   
 <!-- ============================================= -->
 <!-- UNIFIED PROFESSIONAL FOOTER -->
