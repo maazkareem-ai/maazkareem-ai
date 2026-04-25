@@ -234,10 +234,7 @@
     <img src="https://img.shields.io/github/stars/maazkareem-ai?style=social" />
     <img src="https://img.shields.io/github/watchers/maazkareem-ai/maazkareem-ai?style=social" />
   </p>
-  <!-- Profile Views -->
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=maazkareem-ai&label=👁️%20Profile%20Views&color=9146FF&style=flat-square" />
-  </p>
+ 
   <!-- Inspirational Quote -->
   <p>
     <i><sub>"In the quantum realm of AI, every line of code is a possibility."</sub></i>
