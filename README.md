@@ -45,10 +45,10 @@
 <p align="center">
   
   <!-- Programming -->
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,r" /><br/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,r" />
 
   <!-- ML / DL -->
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" /><br/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
 
   <!-- Tools -->
   <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,postgres,mongodb,redis" />
