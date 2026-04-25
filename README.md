@@ -34,81 +34,35 @@
   
 </div>
 
-<!-- ===================== SKILLS SECTION ===================== -->
+<!-- ===================== COMPACT SKILLS ===================== -->
 
 <h2 align="center">🚀 Technical Skills</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;NLP+%7C+Deep+Learning+%7C+MLOps;Building+Intelligent+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=2500&color=58A6FF&center=true&vCenter=true&width=500&lines=Machine+Learning+%7C+NLP+%7C+MLOps;Python+%7C+Deep+Learning+%7C+Cloud" />
 </p>
 
----
+<p align="center">
+  
+  <!-- Programming -->
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,r" /><br/>
 
-### 💻 Programming
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,r,mysql" />
+  <!-- ML / DL -->
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" /><br/>
+
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,postgres,mongodb,redis" />
+
 </p>
 
----
-
-### 🤖 Machine Learning & Deep Learning
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/XGBoost-Advanced-8A2BE2?style=flat-square" />
-  <img src="https://img.shields.io/badge/LightGBM-Advanced-2E8B57?style=flat-square" />
-</p>
-
----
-
-### 🧠 NLP & LLMs
-<p>
-  <img src="https://img.shields.io/badge/BERT-Expert-0A192F?style=flat-square" />
-  <img src="https://img.shields.io/badge/GPT-Expert-412991?style=flat-square" />
-  <img src="https://img.shields.io/badge/HuggingFace-Expert-FFD21E?style=flat-square" />
-  <img src="https://img.shields.io/badge/LangChain-Intermediate-1C3C3C?style=flat-square" />
-</p>
-
----
-
-### 📊 Data Science
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://img.shields.io/badge/Pandas-Expert-150458?style=flat-square" />
-  <img src="https://img.shields.io/badge/NumPy-Expert-013243?style=flat-square" />
-  <img src="https://img.shields.io/badge/Matplotlib-Advanced-11557c?style=flat-square" />
-  <img src="https://img.shields.io/badge/Plotly-Advanced-3F4F75?style=flat-square" />
-</p>
-
----
-
-### ☁️ MLOps & Cloud
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/MLflow-Advanced-0194E2?style=flat-square" />
-  <img src="https://img.shields.io/badge/Weights%26Biases-Advanced-FFBE00?style=flat-square" />
-</p>
-
----
-
-### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Elasticsearch-Intermediate-005571?style=flat-square" />
-  <img src="https://img.shields.io/badge/ChromaDB-Advanced-4A154B?style=flat-square" />
-  <img src="https://img.shields.io/badge/Pinecone-Intermediate-000000?style=flat-square" />
+<p align="center">
+  <!-- Extra (clean badges, small) -->
+  <img src="https://img.shields.io/badge/NLP-BERT%20%7C%20GPT%20%7C%20HuggingFace-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Data-Pandas%20%7C%20NumPy%20%7C%20Plotly-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/MLOps-MLflow%20%7C%20W%26B-orange?style=flat-square" />
 </p>
 
 <!-- ========================================================== -->
-
 
 <!-- ============================================= -->
 <!-- SUPPORT & CONNECT -->
