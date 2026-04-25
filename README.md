@@ -27,9 +27,6 @@
     <a href="https://huggingface.co/maazkareem">
       <img src="https://img.shields.io/badge/HUGGING%20FACE-MODELS-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=000000&color=FFD21E" />
     </a>
-    <a href="https://kaggle.com/maazkareem">
-      <img src="https://img.shields.io/badge/KAGGLE-COMPETE-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=000000&color=20BEFF" />
-    </a>
   </p>
   
   <!-- RAINBOW DIVIDER -->
