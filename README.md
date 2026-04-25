@@ -4,7 +4,7 @@
   <!-- DYNAMIC TYPING HEADER WITH NEON EFFECTS -->
   <!-- ============================================= -->
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=40&duration=3000&pause=500&color=FF00FF&center=true&vCenter=true&width=800&height=100&lines=%E2%9A%A1+MAAZ+KAREEM+%E2%9A%A1;MACHINE+LEARNING+ENGINEER;AI+RESEARCHER+%7C+NLP+SPECIALIST;DEEP+LEARNING+EXPERT" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=44&duration=3000&pause=500&color=FF00FF&center=true&vCenter=true&width=800&height=100&lines=%E2%9A%A1+MAAZ+KAREEM+%E2%9A%A1;MACHINE+LEARNING+ENGINEER;AI+RESEARCHER+%7C+NLP+SPECIALIST;DEEP+LEARNING+EXPERT" alt="Typing SVG" />
   
   <!-- GLOWING BADGES -->
   <p>
@@ -39,7 +39,7 @@
 <h2 align="center">🚀 Technical Skills</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&pause=800&color=FF00FF&center=true&vCenter=true&width=900&lines=Python+%7C+C%2B%2B+%7C+Java+%7C+SQL+%7C+JavaScript+%7C+R;TensorFlow+%7C+PyTorch+%7C+Keras+%7C+Scikit-learn+%7C+XGBoost+%7C+LightGBM;BERT+%7C+GPT+%7C+HuggingFace+%7C+LangChain+%7C+spaCy+%7C+NLTK;Pandas+%7C+NumPy+%7C+Matplotlib+%7C+Plotly+%7C+Tableau+%7C+PowerBI;AWS+%7C+GCP+%7C+Docker+%7C+Kubernetes+%7C+MLflow+%7C+Weights%26Biases;PostgreSQL+%7C+MongoDB+%7C+Redis+%7C+Elasticsearch+%7C+ChromaDB+%7C+Pinecone" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&pause=800&color=FF00FF&center=true&vCenter=true&width=900&lines=Python+%7C+C%2B%2B+%7C+Java+%7C+SQL+%7C+JavaScript+%7C+R;TensorFlow+%7C+PyTorch+%7C+Keras+%7C+Scikit-learn+%7C+XGBoost+%7C+LightGBM;BERT+%7C+GPT+%7C+HuggingFace+%7C+LangChain+%7C+spaCy+%7C+NLTK;Pandas+%7C+NumPy+%7C+Matplotlib+%7C+Plotly+%7C+Tableau+%7C+PowerBI;AWS+%7C+GCP+%7C+Docker+%7C+Kubernetes+%7C+MLflow+%7C+Weights%26Biases;PostgreSQL+%7C+MongoDB+%7C+Redis+%7C+Elasticsearch+%7C+ChromaDB+%7C+Pinecone" />
 </p>
 
 <p align="center">
@@ -69,7 +69,7 @@
 <h2 align="center">🤝 Let's Connect</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3500&color=FF00FF&center=true&vCenter=true&width=650&lines=Machine+Learning+Engineer+%7C+NLP+Specialist;Focused+on+AI+for+Real-World+Impact;Open+to+Research+%2C+Collaboration+%26+Opportunities;Germany+MS+Applicant+%7C+AI+%26+Data+Science" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3500&color=FF00FF&center=true&vCenter=true&width=650&lines=Machine+Learning+Engineer+%7C+NLP+Specialist;Focused+on+AI+for+Real-World+Impact;Open+to+Research+%2C+Collaboration+%26+Opportunities;Germany+MS+Applicant+%7C+AI+%26+Data+Science" />
 </p>
 
 <p align="center">
