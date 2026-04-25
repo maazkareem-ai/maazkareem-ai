@@ -69,12 +69,12 @@
 <h2 align="center">🤝 Let's Connect</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&color=6A5ACD&center=true&vCenter=true&width=500&lines=Open+to+Research+%26+Collaboration;Machine+Learning+%7C+NLP+Engineer;Feel+free+to+reach+out" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3500&color=0A66C2&center=true&vCenter=true&width=650&lines=Machine+Learning+Engineer+%7C+NLP+Specialist;Focused+on+AI+for+Real-World+Impact;Open+to+Research+%2C+Collaboration+%26+Opportunities;Germany+MS+Applicant+%7C+AI+%26+Data+Science" />
 </p>
 
 <p align="center">
   <a href="mailto:maaz.kareem.ai@gmail.com">
-    <img src="https://img.shields.io/badge/Email-maaz.kareem.ai%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   
   <a href="https://www.linkedin.com/in/your-linkedin">
@@ -84,10 +84,10 @@
   <a href="https://github.com/maazkareem-ai">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
-</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=maazkareem-ai&label=Profile%20Views&color=6A5ACD&style=flat-square" />
+  <a href="https://wa.me/923178326996">
+    <img src="https://img.shields.io/badge/WhatsApp-Message-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
+  </a>
 </p>
 
 <!-- =================================================== -->
