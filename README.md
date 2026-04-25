@@ -146,51 +146,6 @@
 </div>
 
 
-
-
-
-
-
-<!-- ============================================= -->
-<!-- CURRENT WORK & ACTIVITIES -->
-<!-- ============================================= -->
-
-<div align="center">
-  
-  <h2>⚡ CURRENT ACTIVITIES</h2>
-  
-  <table width="100%" border="0">
-    <tr>
-      <td width="33%" align="center" valign="top">
-        <h3><font color="#FF00FF">📖 LEARNING</font></h3>
-        <ul align="left">
-          <li>Reinforcement Learning from Human Feedback (RLHF)</li>
-          <li>Model Quantization Techniques</li>
-          <li>Vector Databases & Embeddings</li>
-        </ul>
-      </td>
-      <td width="33%" align="center" valign="top">
-        <h3><font color="#00FFFF">🚀 BUILDING</font></h3>
-        <ul align="left">
-          <li>Open-source NLP preprocessing library</li>
-          <li>Medical AI diagnostic assistant</li>
-          <li>Automated ML pipeline tool</li>
-        </ul>
-      </td>
-      <td width="33%" align="center" valign="top">
-        <h3><font color="#FF69B4">🤝 COLLABORATING</font></h3>
-        <ul align="left">
-          <li>HuggingFace Open Source</li>
-          <li>LangChain Community</li>
-          <li>PyTorch Lightning</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-  
-</div>
-
-
 <!-- ============================================= -->
 <!-- SUPPORT & CONNECT -->
 <!-- ============================================= -->
