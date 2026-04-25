@@ -228,29 +228,7 @@
     <img src="https://img.shields.io/badge/📅-Last%20Updated%3A%20March%202024-00FFFF?style=flat-square&labelColor=0d1117" />
     <img src="https://img.shields.io/badge/🔒-All%20Rights%20Reserved-FF69B4?style=flat-square&labelColor=0d1117" />
   </p>
-  <!-- Social Stats -->
-  <p>
-    <img src="https://img.shields.io/github/followers/maazkareem-ai?style=social" />
-    <img src="https://img.shields.io/github/stars/maazkareem-ai?style=social" />
-    <img src="https://img.shields.io/github/watchers/maazkareem-ai/maazkareem-ai?style=social" />
-  </p>
  
-  <!-- Inspirational Quote -->
-  <p>
-    <i><sub>"In the quantum realm of AI, every line of code is a possibility."</sub></i>
-  </p>
-  <!-- Navigation Buttons -->
-  <p>
-    <a href="#top">
-      <img src="https://img.shields.io/badge/⭐-Back%20to%20Top-FF69B4?style=for-the-badge" />
-    </a>
-    <a href="https://github.com/maazkareem-ai?tab=repositories">
-      <img src="https://img.shields.io/badge/🚀-View%20All%20Projects-00FFFF?style=for-the-badge" />
-    </a>
-    <a href="https://github.com/maazkareem-ai/maazkareem-ai">
-      <img src="https://img.shields.io/badge/📋-Profile%20Repo-9146FF?style=for-the-badge" />
-    </a>
-  </p>
   <!-- Wave Footer Animation -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,24,30,36&height=150&section=footer&animation=twinkling" />
