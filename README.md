@@ -66,48 +66,15 @@
 
 <!-- ===================== CONNECT ===================== -->
 
-<h2 align="center">🤝 Connect</h2>
+<h2 align="center">📬 Contact</h2>
 
 <p align="center">
-  <a href="mailto:maaz.kareem.ai@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  
-  <a href="https://www.linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="https://github.com/maazkareem-ai">
-    <img src="https://img.shields.io/badge/GitHub-Projects-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<!-- Optional (keep ONLY if relevant) -->
-<p align="center">
-  <a href="https://scholar.google.com/your-profile">
-    <img src="https://img.shields.io/badge/Google%20Scholar-Research-4285F4?style=flat-square&logo=google-scholar&logoColor=white" />
-  </a>
-  
-  <a href="https://your-portfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-Website-000000?style=flat-square&logo=vercel&logoColor=white" />
-  </a>
+  <a href="mailto:maaz.kareem.ai@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/your-linkedin">LinkedIn</a> •
+  <a href="https://github.com/maazkareem-ai">GitHub</a>
 </p>
 
 <!-- =================================================== -->
-  
-<!-- ============================================= -->
-<!-- UNIFIED PROFESSIONAL FOOTER -->
-<!-- ============================================= -->
-
-<div align="center">
-  
-  <!-- Contact Section -->
-  <h3>📬 Direct Contact</h3>
-  <a href="mailto:maaz.kareem.ai@gmail.com">
-    <img src="https://img.shields.io/badge/✉️%20maaz.kareem.ai@gmail.com-FF1493?style=for-the-badge&logo=gmail&logoColor=white&labelColor=6A0DAD&color=FF1493&link=mailto:maaz.kareem.ai@gmail.com" />
-  </a>
-  
-  <br/>
   
   <!-- Response Time Badges -->
   <p>
