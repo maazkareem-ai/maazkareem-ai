@@ -4,7 +4,7 @@
   <!-- DYNAMIC TYPING HEADER WITH NEON EFFECTS -->
   <!-- ============================================= -->
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=40&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=800&height=100&lines=%E2%9A%A1+MAAZ+KAREEM+%E2%9A%A1;MACHINE+LEARNING+ENGINEER;AI+RESEARCHER+%7C+NLP+SPECIALIST;DEEP+LEARNING+EXPERT" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=40&duration=3000&pause=500&color=FF00FF&center=true&vCenter=true&width=800&height=100&lines=%E2%9A%A1+MAAZ+KAREEM+%E2%9A%A1;MACHINE+LEARNING+ENGINEER;AI+RESEARCHER+%7C+NLP+SPECIALIST;DEEP+LEARNING+EXPERT" alt="Typing SVG" />
   
   <!-- GLOWING BADGES -->
   <p>
