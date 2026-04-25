@@ -35,7 +35,6 @@
 </div>
 
 <!-- ===================== COMPACT SKILLS ===================== -->
-
 <h2 align="center">🚀 Technical Skills</h2>
 
 <p align="center">
@@ -62,10 +61,7 @@
   <img src="https://img.shields.io/badge/MLOps-MLflow%20%7C%20W%26B-orange?style=flat-square" />
 </p>
 
-<!-- ========================================================== -->
-
 <!-- ===================== CONNECT ===================== -->
-
 <h2 align="center">🤝 Let's Connect</h2>
 
 <p align="center">
