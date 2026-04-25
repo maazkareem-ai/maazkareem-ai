@@ -66,12 +66,28 @@
 
 <!-- ===================== CONNECT ===================== -->
 
-<h2 align="center">📬 Contact</h2>
+<h2 align="center">🤝 Let's Connect</h2>
 
 <p align="center">
-  <a href="mailto:maaz.kareem.ai@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/your-linkedin">LinkedIn</a> •
-  <a href="https://github.com/maazkareem-ai">GitHub</a>
+  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&color=6A5ACD&center=true&vCenter=true&width=500&lines=Open+to+Research+%26+Collaboration;Machine+Learning+%7C+NLP+Engineer;Feel+free+to+reach+out" />
+</p>
+
+<p align="center">
+  <a href="mailto:maaz.kareem.ai@gmail.com">
+    <img src="https://img.shields.io/badge/Email-maaz.kareem.ai%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/your-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/maazkareem-ai">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=maazkareem-ai&label=Profile%20Views&color=6A5ACD&style=flat-square" />
 </p>
 
 <!-- =================================================== -->
