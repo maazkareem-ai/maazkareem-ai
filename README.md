@@ -13,7 +13,6 @@
     <img src="https://img.shields.io/badge/EXPERIENCE-3%2B%20YEARS-00FFFF?style=for-the-badge&logo=codeium&logoColor=white&labelColor=000000&color=00FFFF" />
     <img src="https://img.shields.io/badge/COMPANY-FREELANCE-FFA500?style=for-the-badge&logo=freelancer&logoColor=white&labelColor=000000&color=FFA500" />
   </p>
-  
   <!-- SOCIAL CONNECTIONS WITH GLOW -->
   <p>
     <a href="https://github.com/maazkareem-ai">
